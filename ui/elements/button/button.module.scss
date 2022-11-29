@@ -1,0 +1,14 @@
+.btn {
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  height: 55px;
+  line-height: 55px;
+  font-size: 18px;
+  &.purple {
+    background: linear-gradient(90deg, #a930b5 0%, #5526a6 100%);
+  }
+  &.green {
+    background: linear-gradient(90deg, #37EF63 0%, #00B3E5 86.96%);
+  }
+}
